@@ -26,3 +26,5 @@ Natural Language Processing (NLP): NLP techniques are employed to understand the
 Machine Learning: Algorithms learn from patterns and user behavior, continuously improving the relevance of search results over time.
 
 Semantic search is particularly beneficial for complex queries, ambiguous language, and situations where users may not use the exact keywords that would typically yield the desired results. It has applications i
+
+Refer: https://threadwaiting.com/semantic-search-with-facebook-ai-similarity-search-faiss/
