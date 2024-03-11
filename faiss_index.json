@@ -1,0 +1,1 @@
+{"similarity": "cosine", "sql_url": "sqlite:///faiss_document_store.db"}
